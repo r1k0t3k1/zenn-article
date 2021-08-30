@@ -16,7 +16,7 @@ published: true
 # 出来上がったもの
 今回は画像検索で出てきた適当なビルアイコンを参考に、窓で二進数を表現することにしました。
 
-!(バイナリウォッチ)[https://github.com/riko-teki/pictures/blob/main/binary-watch.png]
+![バイナリウォッチ](https://github.com/riko-teki/pictures/blob/main/binary-watch.png?raw=true)
 
 読み方は下の画像のような感じです。  
 左から、時刻の10の位、時刻の1の位、分の10の位、分の1の位です。  
@@ -24,7 +24,7 @@ published: true
 光っている窓が1を表しているので10進数に変換して列ごとに足し合わせればその位の数が把握できます。
 
 
-!(読み方解説)[https://github.com/riko-teki/pictures/blob/main/binary-watch-description.png]
+![読み方解説](https://github.com/riko-teki/pictures/blob/main/binary-watch-description.png?raw=true)
 
 # 追加したい機能
 摩天楼みたいな感じにビルを乱立させて年月日や曜日を表現したいです。
