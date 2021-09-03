@@ -2,7 +2,7 @@
 title: "CORSの理解を深める"
 emoji: "📝"
 type: "tech"
-topics: ["web","Security","http","javascript"]
+topics: ["web","security","http","javascript"]
 published: true
 ---
 
