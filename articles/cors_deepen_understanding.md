@@ -47,7 +47,7 @@ https://contoso.com:8080
 |`http://contoso.com`<br>`http://contoso.com:8080`|×|ポートが異なるのでクロスオリジンです。|
 
 
-# CORSの流れ
+# リクエストの制限
 通常、ブラウザーはセキュリティの観点からアプリケーションが読み込まれたオリジンへのリクエストのみ許可します。  
 クロスオリジンへのリクエストはデフォルトで許可されていません。  
 この仕組みを[Same Origin Policy(同一オリジンポリシー)](https://developer.mozilla.org/ja/docs/Web/Security/Same-origin_policy)と言います。  
