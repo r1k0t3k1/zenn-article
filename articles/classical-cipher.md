@@ -2,7 +2,7 @@
 title: "CpawCTF level1 Classical Cipher Writeup"
 emoji: "👻"
 type: "tech"
-topics: ["ctf"]
+topics: ["ctf","crypto"]
 published: true
 ---
 
