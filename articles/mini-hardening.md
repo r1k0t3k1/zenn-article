@@ -3,7 +3,7 @@ title: "見習いセキュリティエンジニアでもMINI Hardening出れん�
 emoji: "📝"
 type: "tech"
 topics: ["hardening","Security"]
-published: false
+published: true
 ---
 
 # 初めに
