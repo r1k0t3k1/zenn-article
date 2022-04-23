@@ -1,7 +1,7 @@
 ---
 title: "見習いセキュリティエンジニアでもMINI Hardening出れんの？"
 emoji: "📝"
-type: "tech"
+type: "ideas"
 topics: ["hardening","Security"]
 published: true
 ---
