@@ -17,7 +17,7 @@ Hardening(固める)という意味から察しがつきますが、システム
 今回参加したMINI Hardeningは言葉の通り、Hardeningをちょっと小さい規模で体験できるようなイベントで  
 公式の方曰く、『セキュリティインシデントをカジュアルに体験』できるというコンセプトだそうです。
 詳細な情報は都合上公開できないのですが公表できる資料のURLを載せておきます。
-[](https://speakerdeck.com/delphinz/mini-hardneing4-introduction)
+https://speakerdeck.com/delphinz/mini-hardneing4-introduction
 
 過去19回開催されていて筆者は記念すべき20回目の参加者でした。
 
