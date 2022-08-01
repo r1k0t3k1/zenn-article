@@ -1,4 +1,10 @@
-# LinuxのNetworkManger『nmcli』でネットワーク設定を管理するための覚書
+---
+title: "LinuxのNetworkManger『nmcli』でネットワーク設定を管理するための覚書"
+emoji: "📝"
+type: "tech"
+topics: ["network","Linux"]
+published: true
+---
 
 ## NetworkManagerの状態を表示したい
 ```bash
